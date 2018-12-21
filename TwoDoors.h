@@ -8,7 +8,7 @@ int main(int argc, const char * argv[]) {
     char play;
     char choice;
     
-    printf("Welcome to Two doors.\n");
+    printf("Welcome to TwoDoors.\n");
     printf("Would you like to play? (y/n):\n");
     scanf("%s", &play);
     
