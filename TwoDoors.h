@@ -1,6 +1,6 @@
 //
 //  Two Doors.h
-include "Two Doors.h"
+include "TwoDoors.h"
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
